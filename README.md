@@ -3,10 +3,10 @@
 **Introduction**<br/>
 The world's population has seen significant shifts and changes over the past few decades. Understanding these trends can provide insights into economic growth, resource allocation, urbanization, and societal changes. The world_population.csv dataset offers a comprehensive view of population metrics for various countries spanning from 1970 to 2022. This report delves into the data to uncover patterns, growth rates, and other key insights.<br/>
 
+<br/>
 **Data Processing**<br/>
 
 The dataset contains several columns, including:<br/>
-
 Country name and code<br/>
 Capital<br/>
 Continent<br/>
