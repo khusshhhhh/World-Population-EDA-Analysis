@@ -1,14 +1,14 @@
 # World-Population-EDA-Analysis
 
-**Introduction**<br>
+**Introduction**<br/>
 The world's population has seen significant shifts and changes over the past few decades. Understanding these trends can provide insights into economic growth, resource allocation, urbanization, and societal changes. The world_population.csv dataset offers a comprehensive view of population metrics for various countries spanning from 1970 to 2022. This report delves into the data to uncover patterns, growth rates, and other key insights.
 
-**Data Processing**<br>
-Data Overview:<br>
-The dataset contains several columns, including:<br>
+**Data Processing**<br/>
+Data Overview:<br/>
+The dataset contains several columns, including:<br/>
 
-Country name and code<br>
-Capital<br>
+Country name and code<br/>
+Capital<br/>
 Continent<br>
 Population for various years (1970, 1980, 1990, 2000, 2010, 2015, 2020, and 2022)<br>
 Area (in km²)<br>
