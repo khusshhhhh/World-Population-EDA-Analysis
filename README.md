@@ -5,7 +5,6 @@ The world's population has seen significant shifts and changes over the past few
 
 
 **Data Processing**<br/>
-
 The dataset contains several columns, including:<br/>
 Country name and code<br/>
 Capital<br/>
